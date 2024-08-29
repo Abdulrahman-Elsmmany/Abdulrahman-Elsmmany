@@ -21,14 +21,14 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">>
-    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" />
+  <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-elsmmany-3a948a294">
+  <a href="https://www.linkedin.com/in/abdulrahman-elsmmany-3a948a294" target="_blank" rel="noreferrer">
     <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
   </a>
-  <a href="https://t.me/ENG_Abdulrahman_Assem">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/telegram-svgrepo-com.svg"  width="40" height="40"/>
   </a>
 </div>
 
