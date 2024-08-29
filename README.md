@@ -40,6 +40,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity,vscode,github,git,linux" />
     <img src="https://skillicons.dev/icons?i=graphql,mongodb,redis,matlab,discord,bots,notion,mysql,flask,selenium" /><br>
+    <p>
+        <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
+    </p>
+    
 </div>
 
 <br/>
