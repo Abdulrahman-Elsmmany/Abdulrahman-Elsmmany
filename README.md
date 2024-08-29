@@ -20,7 +20,7 @@
 
  </div>
  
-<p align="left"> 
+<p align="center"> 
   <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" width="40" height="40"/>
   </a>
