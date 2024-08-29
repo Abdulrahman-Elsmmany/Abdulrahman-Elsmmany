@@ -22,10 +22,10 @@
  
 <div align="center"> 
   <a href="mailto:eng.elsmmany@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrahman-elsmmany-3a948a294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" />
   </a>
   <a href="https://t.me/ENG_Abdulrahman_Assem">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
