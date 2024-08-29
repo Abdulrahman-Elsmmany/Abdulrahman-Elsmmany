@@ -20,7 +20,7 @@
 
  </div>
  
-<div align="center"> 
+<p align="left"> 
   <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" width="40" height="40"/>
   </a>
@@ -30,7 +30,8 @@
   <a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer">
     <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/telegram-svgrepo-com.svg"  width="40" height="40"/>
   </a>
-</div>
+</p>
+
 
  <hr/>
  
