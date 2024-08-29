@@ -41,12 +41,12 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity,vscode,github,git,linux" />
     <img src="https://skillicons.dev/icons?i=graphql,mongodb,redis,matlab,discord,bots,notion,mysql,flask,selenium" /><br>
     <p>
-        <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-        <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-        <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-        <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-        <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-        <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
+        <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="40" height="40" alt="Alchemy" /></a>
+        <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
+        <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
+        <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solana-colored.svg" width="40" height="40" alt="Solana" /></a>
+        <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" /></a>
+        <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/uniswap-colored.svg" width="40" height="40" alt="Uniswap" /></a>
     </p>
     
 </div>
