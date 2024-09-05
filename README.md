@@ -42,6 +42,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity,vscode,github,git,linux" />
     <img src="https://skillicons.dev/icons?i=graphql,mongodb,redis,matlab,discord,bots,notion,mysql,flask,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,express,jquery,nextjs,postgres,postman,react,tailwind,vite" /><br>
     <p>
         <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="40" height="40" alt="Alchemy" /></a>
         <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
