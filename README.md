@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI+and+Machine+Learning+Specialist;Blockchain+Developer;Full-Stack+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI/ML+Specialist+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
 </h1>
 
 <h3 align="center">A passionate and versatile developer</h3>
@@ -10,11 +10,13 @@
 
 <div align="center">
  
-🎓 I’m currently Studying **AI** and **Machine Intelligence**
+🎓 Currently studying **AI** and **Machine Intelligence**
  
-💼 Experienced in **Blockchain**, **Web Scraping**, and **Bot development**
+💼 Experienced in **Blockchain**, **Web Scraping**, and **Bot Development**
 
 ⚡ Proficient in **Python**, **Node.js**, **Rust**, and **C++**
+
+🌐 Full Stack Developer with expertise in both **Frontend** and **Backend**
 
 📊 Data science skills using **pandas**, **numpy**, and **matplotlib**
 
