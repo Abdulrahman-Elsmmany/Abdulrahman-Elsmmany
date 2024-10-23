@@ -12,13 +12,13 @@
  
 🎓 Currently studying **AI** and **Machine Intelligence**
  
-💼 Experienced in **Blockchain**, **Web Scraping**, and **Bot Development**
+💼 Experienced in **Machine Learning**, **Deep Learning**, **Blockchain**, **Web Scraping**, and **Bot Development**
 
 ⚡ Proficient in **Python**, **Node.js**, **Rust**, and **C++**
 
 🌐 Full Stack Developer with expertise in both **Frontend** and **Backend**
 
-📊 Data science skills using **pandas**, **numpy**, and **matplotlib**
+📊 Data science skills
 
  </div>
  
