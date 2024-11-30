@@ -1,17 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI/ML+Expert+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
 </h1>
+
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
 </div>
+
 <h3 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h3>
+
 <div align="center">
 🎓 Studying Machine Intelligence at AI Faculty
+
 💻 Tech Stack:
 - Languages: Python, Node.js, Rust, C++, JavaScript
 - Frameworks: React, Next.js, Express, TensorFlow, PyTorch
 - Specialties: Object Detection, Machine Learning, Deep Learning
 - Hardware: Arduino
+
 🔭 Focus Areas:
 - Machine Learning & Deep Learning
 - Blockchain Development
