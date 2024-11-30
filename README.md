@@ -6,7 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
-<h3 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h3>
+<h2 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h2>
+<br>
 
 <div>
 🎓 Studying Machine Intelligence at AI Faculty
