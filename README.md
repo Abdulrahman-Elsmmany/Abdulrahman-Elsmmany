@@ -7,9 +7,8 @@
 </div>
 
 <h2 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h2>
-<p style="height: 20px;"></p>
 
-<div>
+<div align='center'>
 🎓 Studying Machine Intelligence at AI Faculty
 
 💻 Tech Stack:
