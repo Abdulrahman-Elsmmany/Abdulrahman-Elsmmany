@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity" />
-    <img src = "https://skillicons.dev/icons?i=tensorflow,pytorch,flask,selenium,matlab,vscode,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity" /><br>
+    <img src ="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,selenium,matlab,vscode,linux,bash" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql,discord,bots,notion" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,react,express,nextjs,postman,tailwind,vite" /><br>
     <p>
