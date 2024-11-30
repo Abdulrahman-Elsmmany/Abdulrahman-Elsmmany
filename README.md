@@ -1,26 +1,31 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI/ML+Specialist+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI/ML+Expert+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
 </h1>
 
-<h3 align="center">A passionate and versatile developer</h3>
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
-<br/>
+<h3 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h3>
 
 <div align="center">
- 
-🎓 Currently studying **AI** and **Machine Intelligence**
- 
-💼 Experienced in **Machine Learning**, **Deep Learning**, **Blockchain**, **Web Scraping**, and **Bot Development**
 
-⚡ Proficient in **Python**, **Node.js**, **Rust**, and **C++**
+🎓 Studying Machine Intelligence at AI Faculty
 
-🌐 Full Stack Developer with expertise in both **Frontend** and **Backend**
+💻 Tech Stack:
+- **Languages:** Python, Node.js, Rust, C++, JavaScript
+- **Frameworks:** React, Next.js, Express, TensorFlow, PyTorch
+- **Specialties:** Object Detection, Machine Learning, Deep Learning
+- **Hardware:** Arduino
 
-📊 Data science skills
+🔭 Focus Areas:
+- Machine Learning & Deep Learning
+- Blockchain Development
+- Full Stack Development (Frontend & Backend)
+- Web Scraping & Bot Development
+- Data Science
 
- </div>
+</div>
  
 <p align="center"> 
   <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
