@@ -7,7 +7,6 @@
 </div>
 
 <h2 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h2>
-<p></p>
 <br>
 
 <div>
