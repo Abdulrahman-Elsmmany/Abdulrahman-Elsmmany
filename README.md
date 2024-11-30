@@ -9,14 +9,13 @@
 <h3 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h3>
 
 <div align="center">
-
 🎓 Studying Machine Intelligence at AI Faculty
 
 💻 Tech Stack:
-- **Languages:** Python, Node.js, Rust, C++, JavaScript
-- **Frameworks:** React, Next.js, Express, TensorFlow, PyTorch
-- **Specialties:** Object Detection, Machine Learning, Deep Learning
-- **Hardware:** Arduino
+- Languages: Python, Node.js, Rust, C++, JavaScript
+- Frameworks: React, Next.js, Express, TensorFlow, PyTorch
+- Specialties: Object Detection, Machine Learning, Deep Learning
+- Hardware: Arduino
 
 🔭 Focus Areas:
 - Machine Learning & Deep Learning
@@ -24,7 +23,6 @@
 - Full Stack Development (Frontend & Backend)
 - Web Scraping & Bot Development
 - Data Science
-
 </div>
  
 <p align="center"> 
