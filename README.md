@@ -1,83 +1,103 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile👋;I'm+Abdulrahman+Elsmmany;AI/ML+Expert+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
-</h1>
-
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DRighteous%26size%3D40%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D80%26duration%3D4000%26lines%3DHi%2Bthere%252C%2BI%27m%2BAbdulrahman%2BElsmmany%2B%25F0%259F%2591%258B%3BSenior%2BAI%252FML%2B%2526%2BFull-Stack%2BDeveloper%3BPython%2B%257C%2BRust%2B%257C%2BNode.js%2B%257C%2BNext.js" />
 </div>
 
-<h2 align="center">AI/ML Expert & Full Stack Developer & Blockchain Developer</h2>
+<p align="center">
+<a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdulrahman-elsmmany/" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.google.com/search?q=https://www.upwork.com/freelancers/~01b7a2b9a7e6b0a8a4" target="_blank" rel="noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Upwork-6FDA44%3Fstyle%3Dfor-the-badge%26logo%3Dupwork%26logoColor%3Dwhite" /></a>
+</p>
+About Me
 
-<div align='center'>
-🎓 Studying Machine Intelligence at AI Faculty
+With over four years of professional experience, I deliver expert-level solutions in Artificial Intelligence, Machine Learning, and Full-Stack Development. My core competency is in developing intelligent systems and integrating them seamlessly into scalable, high-performance web applications built with modern frameworks like Next.js and React.js. I am a dedicated problem-solver, committed to translating complex technical requirements into tangible business results.
+⚙️ Core Expertise
 
+<table>
+<tr>
+<td valign="top" width="50%">
+<strong>AI & Machine Learning</strong>
+<ul>
+<li>Generative AI (Image, Video & Text)</li>
+<li>AI Agent & Voice Agent Development</li>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Automation & Web Scraping</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<strong>Full-Stack Development</strong>
+<ul>
+<li><strong>Frontend:</strong> Next.js, React.js, TypeScript</li>
+<li><strong>Backend:</strong> Node.js, Express.js</li>
+<li><strong>Databases:</strong> Firebase, Redis, PostgreSQL, Supabase</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<strong>Core Languages</strong>
+<ul>
+<li>Python, Rust, C++, JavaScript/TypeScript</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<strong>DevOps & Cloud</strong>
+<ul>
+<li>Docker, Google Cloud Platform (GCP), Firebase</li>
+</ul>
+</td>
+</tr>
+</table>
+🚀 Featured Projects & Experience
+1. Lead AI & Full-Stack Engineer | AddisCare.ai (Current Role)
 
-💻 Tech Stack:
-- **Languages**: Python, Node.js, Rust, C++, JavaScript
-- **Frameworks**: React, Next.js, Express, TensorFlow, PyTorch
-- **Specialties**: Object Detection, Machine Learning, Deep Learning
-- **Hardware**: Arduino
+As a lead engineer for this cutting-edge HealthTech platform, my role is to architect and implement its core AI functionalities while driving full-stack development.
 
-🔭 Focus Areas:
-- Machine Learning & Deep Learning
-- Blockchain Development
-- Full Stack Development (Frontend & Backend)
-- Web Scraping & Bot Development
-- Data Science
-</div>
- 
-<p align="center"> 
-  <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-elsmmany/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/telegram-svgrepo-com.svg"  width="40" height="40"/>
-  </a>
+    Generative AI Suite: Developed a multi-modal generative AI module for creating context-aware images, videos, and text.
+
+    Intelligent Gmail Automation: Architected an innovative RAG system that ingests user emails, enabling them to ask complex questions and retrieve information from their entire Gmail history.
+
+    RAG for Clinical Notes: Implemented a second RAG system for resident notes, allowing healthcare staff to instantly query crucial information regarding patient schedules and tasks.
+
+    Automated Schedule Detection: Engineered an NLP module that parses incoming emails to automatically detect meetings and important events, triggering timely notifications.
+
+    Tech Stack: Next.js, React, Node.js, Python, Firebase, GCP, Generative AI, RAG, NLP
+
+2. Automated Crypto Data & Trading Solutions
+
+Engineered a suite of tools for the crypto space, focusing on data automation and user engagement.
+
+    Developed a real-time data aggregator that scrapes CoinMarketCap/DexView and syncs to Google Sheets.
+
+    Built algorithmic trading bots with advanced risk management strategies.
+
+    Created complex Telegram bots for giveaways and subscription management.
+
+3. Blockchain & Token Development
+
+Developed and launched custom blockchain tokens on both Ethereum (ERC standards) and Solana ecosystems.
+
+    Tech Stack: Solidity, Node.js, Rust
+
+🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,rust,cpp,js,ts,nodejs,solidity" alt="Languages" /><br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,express,tailwind,vite" alt="Web Frameworks" /><br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,flask,selenium" alt="Python Ecosystem" /><br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres,mysql,mongodb,redis,firebase,supabase" alt="Databases" /><br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,gcp,linux,bash,vscode,postman" alt="DevOps & Tools" /><br>
+</p>
+📊 My GitHub Stats
+
+<p align="center">
+<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbdulrahman-Elsmmany%26show_icons%3Dtrue%26hide%3Dstars%26count_private%3Dtrue%26title_color%3D0891b2%26text_color%3Dffffff%26icon_color%3D0891b2%26bg_color%3D1c1917%26hide_border%3Dtrue%26show_icons%3Dtrue" alt="Abdulrahman-Elsmmany's GitHub stats" /></a>
+<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Elsmmany&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Abdulrahman-Elsmmany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Elsmmany&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity" /><br>
-    <img src ="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,selenium,matlab,vscode,linux,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql,discord,bots,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,express,nextjs,postman,tailwind,vite" /><br>
-    <p>
-        <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="40" height="40" alt="Alchemy" /></a>
-        <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
-        <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
-        <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solana-colored.svg" width="40" height="40" alt="Solana" /></a>
-        <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" /></a>
-        <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/uniswap-colored.svg" width="40" height="40" alt="Uniswap" /></a>
-    </p>
-    
+<h3>🤝 Let's Connect and Build Something Amazing!</h3>
+<a href='https://ko-fi.com/abdulrahman_elsmmany#' target='_blank'><img height='48' style='border:0px;height:48px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-<h2 align="center">My GitHub Stats</h2>
-
-<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Elsmmany&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdulrahman-Elsmmany's GitHub stats" /></a>
-
-<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Elsmmany&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Abdulrahman-Elsmmany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Elsmmany&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  <br/>
-</div>
-
-<hr/>
-<div align="center">
-<a href='https://ko-fi.com/abdulrahman_elsmmany#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<hr/>
-
-<br/>
