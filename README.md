@@ -1,5 +1,3 @@
-# 🚀 Abdulrahman Elsmmany - AI/ML Expert & Full Stack Developer
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile!;I'm+Abdulrahman+Elsmmany;AI/ML+Expert+%26+Full+Stack+Dev;Blockchain+Developer;Python%2C+Node.js%2C+Rust+Expert" />
 </h1>
@@ -8,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
-<h2 align="center">🤖 AI/ML Expert & Full Stack Developer & Blockchain Developer 🔗</h2>
+<h2 align="center">🤖 Abdulrahman Elsmmany - AI/ML Expert & Full Stack Developer 🔗</h2>
 
 ---
 
