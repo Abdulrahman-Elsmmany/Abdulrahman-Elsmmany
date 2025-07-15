@@ -42,7 +42,7 @@ I am a dedicated problem-solver, committed to translating complex technical requ
 ### 🔧 **Core Languages:**
 - **⭕ Python** (Expert) 🐍
 - **⭕ JavaScript/TypeScript** (Expert) 📜
-- **⭕ Rust** (Intermediate) 🦀
+- **⭕ Rust** (Expert) 🦀
 - **⭕ C++** (Proficient) ⚙️
 
 ### ☁️ **DevOps & Cloud:**
