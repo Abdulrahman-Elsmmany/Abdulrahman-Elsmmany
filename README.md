@@ -154,13 +154,13 @@ I stay at the forefront of technology trends, continuously learning and implemen
 
 <p align="center"> 
   <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/gmail-svgrepo-com.svg" width="40" height="40"/>
+    <img src="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/blob/6a82e88919a47c45b5b7dd095a0a854bb4995054/assets/gmail-svgrepo-com.svg" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/abdulrahman-elsmmany/" target="_blank" rel="noreferrer">
     <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
   </a>
   <a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Icons/blob/main/telegram-svgrepo-com.svg"  width="40" height="40"/>
+    <img src="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/blob/6a82e88919a47c45b5b7dd095a0a854bb4995054/assets/telegram-svgrepo-com.svg"  width="40" height="40"/>
   </a>
 </p>
 
