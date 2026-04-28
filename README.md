@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img alt="Abdulrahman Elsmmany — voice AI · multi-agent systems · full-stack" src="./assets/banner-dark.png" width="100%">
+</picture>
+
 <p align="center">
   <samp>
     <a href="https://www.linkedin.com/in/abdulrahman-elsmmany/">linkedin</a> .
@@ -9,41 +15,74 @@
 
 ### Abdulrahman Elsmmany
 
-I build production LLM systems — voice agents, RAG pipelines, multi-agent backends — and the full-stack apps they live inside. Currently shipping at **PsHub** (a LangGraph multi-agent system over a Next.js / Supabase B2B marketplace) and HIPAA AI at **Addis Care** in the US. Previously: a 50K-user crypto product ecosystem at **Profit 717**.
+I build production LLM systems — voice agents, RAG pipelines, multi-agent backends — and the full-stack apps they live inside.
+
+Recent work: real-time voice AI on Pipecat + WebRTC with multi-provider STT-LLM-TTS, LangGraph multi-agent backends with hybrid retrieval and HITL gating, HIPAA-compliant clinical AI, and a 50K-user crypto product ecosystem with smart-contract payouts.
 
 ## `$ whoami`
 
-- **Stack** — `Python` · `TypeScript` · `LangGraph` · `Pipecat` · `LiveKit` · `FastAPI` · `Next.js` · `Supabase` · `pgvector`
+- **Languages** — `Python` · `TypeScript` · `Rust`
+- **AI / Agents** — `LangChain` · `LangGraph` · `Pipecat` · `LiveKit` · `Pydantic-AI` · `Firebase Genkit` (used in TS or Python depending on the project)
+- **Backend** — `FastAPI` · `Node.js` · `asyncio` · `SQLAlchemy`
+- **Frontend** — `Next.js` · `React` · `Tailwind` · `Tauri`
+- **Data** — `PostgreSQL` · `Supabase` · `pgvector` · `Redis` · `MongoDB`
 - **Currently learning** — voice-agent eval harnesses, real-time guardrails, MCP server patterns at scale, semantic chunking for legal/medical RAG
+- **Remote · open to senior IC roles + select contracts**
 
-#### What I work on
+#### Selected projects
 
-```mermaid
-flowchart LR
-    subgraph Domains
-        VA["Voice agents"]
-        AG["Multi-agent systems"]
-        RAG["Retrieval pipelines"]
-        FS["Full-stack AI apps"]
-    end
-    subgraph Stack
-        PC["Pipecat / LiveKit"]
-        LC["LangChain / LangGraph"]
-        FA["FastAPI / asyncio"]
-        SB["Supabase / pgvector"]
-        NX["Next.js / React"]
-    end
-    VA --> PC
-    VA --> LC
-    AG --> LC
-    RAG --> SB
-    LC --> FA
-    PC --> FA
-    FA --> NX
-    SB --> NX
-    FS --> NX
-    FS --> FA
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/LiveSwitch"><img src="./assets/projects/liveswitch.png" alt="LiveSwitch — multi-agent voice orchestration" width="100%"></a>
+
+##### [LiveSwitch](https://github.com/Abdulrahman-Elsmmany/LiveSwitch)
+
+Config-driven multi-agent voice orchestration. JSON-driven flows with runtime agent generation, intelligent handoff coordination, and cross-call memory.
+
+`LiveKit Agents` · `FastAPI` · `Pydantic 2`
+
+</td>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/projects/docscrape.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
+
+##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
+
+Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform-specific adapters, resumable.
+
+`Python · async` · `Click` · `Pydantic`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli"><img src="./assets/projects/ai-media-studio.png" alt="AI Media Studio — multi-modal AI media generation" width="100%"></a>
+
+##### [AI Media Studio](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli)
+
+Multi-modal AI media generation tool — Veo 3 video, Imagen images, MusicLM audio. Three interfaces: desktop GUI, CLI, REST API.
+
+`Tauri` · `FastAPI` · `Vertex AI`
+
+</td>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/KIWI-"><img src="./assets/projects/kiwi.png" alt="KIWI TTS — multi-interface text to speech" width="100%"></a>
+
+##### [KIWI TTS](https://github.com/Abdulrahman-Elsmmany/KIWI-)
+
+Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30+ voices, 28 languages. Desktop GUI, CLI, REST API.
+
+`Tauri` · `Python` · `Google Cloud TTS`
+
+</td>
+</tr>
+</table>
+
+→ [More projects on my GitHub](https://github.com/Abdulrahman-Elsmmany?tab=repositories)
 
 #### Latest
 
@@ -53,67 +92,20 @@ flowchart LR
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- _Set up the workflow in section 7 below to populate this._
+- _The auto-update workflow hasn't run yet — trigger it once from the Actions tab._
 <!-- recent_releases ends -->
 
 </td>
 <td valign="top" width="50%">
 
-##### Recent writing
-<!-- BLOG-POST-LIST:START -->
-- _Set up the workflow in section 7 below to populate this._
-<!-- BLOG-POST-LIST:END -->
+##### Recently active
+<!-- recent_activity starts -->
+- _The auto-update workflow hasn't run yet — trigger it once from the Actions tab._
+<!-- recent_activity ends -->
 
 </td>
 </tr>
 </table>
-
-#### Selected projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-##### [IRAGX](https://github.com/Abdulrahman-Elsmmany/IRAGX)
-
-Production RAG platform with 12 retrieval strategies — hybrid BM25 + pgvector, cross-encoder reranking, streaming chat with citations.
-
-`LangGraph` · `Next.js 16` · `Supabase`
-
-</td>
-<td valign="top" width="50%">
-
-##### [LiveSwitch](https://github.com/Abdulrahman-Elsmmany/LiveSwitch)
-
-Config-driven multi-agent voice orchestration. JSON-driven flow with runtime agent generation and cross-call memory.
-
-`LiveKit` · `FastAPI` · `Pydantic 2`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-##### [mcp-crawl4ai-rag](https://github.com/Abdulrahman-Elsmmany/mcp-crawl4ai-rag)
-
-MCP server with 5 RAG strategies — contextual, hybrid, agentic, reranking, and Neo4j knowledge-graph hallucination detection.
-
-`MCP` · `Crawl4AI` · `Neo4j`
-
-</td>
-<td valign="top" width="50%">
-
-##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
-
-Universal docs-to-Markdown CLI for LLM context. llms.txt, sitemap, and recursive crawl strategies. Resumable.
-
-`Python` · `async` · `Click`
-
-</td>
-</tr>
-</table>
-
-→ [More projects on my GitHub](https://github.com/Abdulrahman-Elsmmany?tab=repositories)
 
 <details>
 <summary><code>README</code> — <em>How I work</em></summary>
@@ -123,7 +115,7 @@ Universal docs-to-Markdown CLI for LLM context. llms.txt, sitemap, and recursive
 - **Async-first.** Design doc → spike → benchmark → ship. I write down what I'd build before I build it.
 - **Evaluation before claims.** Every retrieval / agent / latency claim in my repos has a numbers table to back it.
 - **Demos > slides.** I'd rather send you a 30-second Loom than a deck.
-- **Open to** senior IC roles in voice AI / LLM systems / full-stack AI products. Long-running contracts (3+ months) over week-long gigs. Remote, US/EU-friendly hours.
+- **Open to** senior IC roles in voice AI / LLM systems / full-stack AI products. Long-running contracts (3+ months) over week-long gigs.
 
 </details>
 

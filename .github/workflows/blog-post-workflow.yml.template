@@ -1,0 +1,46 @@
+# Optional: enable this workflow when you have an RSS-enabled blog
+# (Substack, dev.to, Medium, your personal site).
+#
+# Setup:
+#   1. Rename this file to: blog-post-workflow.yml
+#   2. Replace the feed_list URL below with your actual RSS feed
+#   3. Add a third <td> column to README.md inside the "Latest" table:
+#
+#        <td valign="top" width="33%">
+#
+#        ##### Recent writing
+#        <!-- BLOG-POST-LIST:START -->
+#        <!-- BLOG-POST-LIST:END -->
+#
+#        </td>
+#
+#      And change the existing two cells from width="50%" to width="33%".
+#   4. Commit and push.
+#
+# The action: https://github.com/gautamkrishnar/blog-post-workflow
+
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC, 30 min before the build workflow
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your real RSS feed URL.
+          feed_list: "https://your-blog.example.com/rss.xml"
+          max_post_count: 5
+          comment_tag_name: BLOG-POST-LIST
+          template: "- [$title]($url) · $newline"
+          # Optional: filter out drafts or category-specific posts
+          # filter_dates: 30   # only posts from the last 30 days
