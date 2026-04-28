@@ -92,7 +92,7 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- _The auto-update workflow hasn't run yet — trigger it once from the Actions tab._
+- _No tagged releases yet — see the activity feed for what's shipping right now._
 <!-- recent_releases ends -->
 
 </td>
@@ -100,7 +100,11 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 
 ##### Recently active
 <!-- recent_activity starts -->
-- _The auto-update workflow hasn't run yet — trigger it once from the Actions tab._
+- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 1w ago
+- [**-Telemetry-Apps-t2-announcements-app**](https://github.com/Abdulrahman-Elsmmany/-Telemetry-Apps-t2-announcements-app) — `TypeScript` · 3mo ago
+- [**LiveSwitch**](https://github.com/Abdulrahman-Elsmmany/LiveSwitch) — `Python` · 3mo ago
+- [**Telemetry-Apps-t1-clock-app**](https://github.com/Abdulrahman-Elsmmany/Telemetry-Apps-t1-clock-app) — `TypeScript` · 3mo ago
+- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · 8mo ago
 <!-- recent_activity ends -->
 
 </td>
