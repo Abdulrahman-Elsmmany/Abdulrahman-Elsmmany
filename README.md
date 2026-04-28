@@ -1,185 +1,133 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=80&duration=4400&lines=Welcome+to+my+GitHub+profile!;I'm+Abdulrahman+Elsmmany;AI/ML+Expert+%26+Full+Stack+Dev;Python%2C+Node.js%2C+Rust+Expert" />
-</h1>
-
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Elsmmany&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
-<h2 align="center">🤖 Abdulrahman Elsmmany - AI/ML Expert & Full Stack Developer 🔗</h2>
-
----
-
-## 🎯 **About Me**
-
-<div align='center'>
-
-🎓 **Studying Machine Intelligence at AI Faculty**  
-💼 **4+ Years of Professional Experience**  
-🌟 **Dedicated Problem-Solver & Innovation Driver**
-
-</div>
-
-With over four years of professional experience, I deliver **expert-level solutions** in Artificial Intelligence, Machine Learning, and Full-Stack Development. My core competency is in developing intelligent systems and integrating them seamlessly into scalable, high-performance web applications built with modern frameworks like **Next.js** and **React.js**.
-
-I am a dedicated problem-solver, committed to translating complex technical requirements into tangible business results. 🎯
-
----
-
-## ⚙️ **MY CORE EXPERTISE**
-
-### 🧠 **AI & Machine Learning:**
-- **1️⃣ Generative AI**: Image, Video & Text Generation 🎨
-- **2️⃣ Intelligent Systems**: AI Agent & Voice Agent Development 🤖
-- **3️⃣ RAG & NLP**: Retrieval-Augmented Generation, Natural Language Processing 📝
-- **4️⃣ Data Science**: Automation, Web Scraping, Algorithmic Trading Models 📊
-
-### 💻 **Full-Stack Development:**
-- **1️⃣ Frontend**: Next.js, React.js, TypeScript ⚡
-- **2️⃣ Backend**: Node.js, Express.js 🛠️
-- **3️⃣ Databases**: Firebase (Firestore, Realtime DB), Redis, PostgreSQL, Supabase 🗄️
-
-### 🔧 **Core Languages:**
-- **⭕ Python** (Expert) 🐍
-- **⭕ JavaScript/TypeScript** (Expert) 📜
-- **⭕ Rust** (Expert) 🦀
-- **⭕ C++** (Proficient) ⚙️
-
-### ☁️ **DevOps & Cloud:**
-- **⭕ Docker** 🐳
-- **⭕ Google Cloud Platform (GCP)** ☁️
-- **⭕ Firebase Ecosystem** 🔥
-- **⭕ Vercel** (Deployment) 🚀
-
----
-
-## 🚀 **FEATURED PROJECTS & EXPERIENCE**
-
-### **1️⃣ Lead AI & Full-Stack Engineer | AddisCare.ai** *(Current Role)*
-
-As a lead engineer for this cutting-edge **HealthTech platform**, my role is to architect and implement its core AI functionalities while driving full-stack development. I specialize in creating sophisticated, data-driven features that automate and enhance user workflows.
-
-**🌀 Key Achievements:**
-- Developed a **multi-modal generative AI module** for creating context-aware images, videos, and text
-- Architected an innovative **RAG system** that ingests user emails, enabling them to ask complex questions and retrieve information from their entire Gmail history
-- Implemented a second **RAG system for resident notes**, allowing healthcare staff to instantly query crucial information regarding patient schedules and tasks
-- Engineered an **NLP module** that parses incoming emails to automatically detect meetings and important events, triggering timely notifications
-
-**🛠️ Tech Stack:** Next.js, React, Node.js, Python, Firebase, Google Cloud, Generative AI Models, RAG Frameworks, NLP Libraries
-
-### **2️⃣ Automated Crypto Data & Trading Solutions**
-
-Engineered a suite of tools for the crypto space, focusing on data automation and user engagement.
-
-**🌀 Key Features:**
-- Developed a **real-time data aggregator** that scrapes CoinMarketCap/DexView and syncs to Google Sheets
-- Built **algorithmic trading bots** with advanced risk management strategies
-- Created complex **Telegram bots** for giveaways and subscription management
-
-### **3️⃣ Blockchain & Token Development**
-
-Developed and launched custom blockchain tokens on both **Ethereum (ERC standards)** and **Solana ecosystems**.
-
-**🛠️ Tech Stack:** Solidity, Node.js, Rust
-
----
-
-## 🛠️ **Languages, Frameworks & Tools**
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,nodejs,solidity" /><br>
-    <img src ="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,selenium,matlab,vscode,linux,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,graphql,discord,bots,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,express,nextjs,postman,tailwind,vite" /><br>
-    <p>
-        <a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/alchemy-colored.svg" width="40" height="40" alt="Alchemy" /></a>
-        <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/chainlink-colored.svg" width="40" height="40" alt="Chainlink" /></a>
-        <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/ethereum-colored.svg" width="40" height="40" alt="Ethereum" /></a>
-        <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/solana-colored.svg" width="40" height="40" alt="Solana" /></a>
-        <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" /></a>
-        <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/uniswap-colored.svg" width="40" height="40" alt="Uniswap" /></a>
-    </p>
-</div>
-
----
-
-## 🤝 **MY APPROACH**
-
-### **► Problem-First Philosophy** 🎯
-I focus on understanding your business goals to deliver a solution that provides real-world value.
-
-### **► Clean & Scalable Code** 🧹
-I write maintainable, well-documented code built for future growth and easy maintenance.
-
-### **► Proactive Communication** 📢
-I believe in clear, consistent updates to ensure we are always aligned throughout the development process.
-
-### **► Innovation-Driven** 💡
-I stay at the forefront of technology trends, continuously learning and implementing cutting-edge solutions.
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-<h2 align="center">📈 My GitHub Stats</h2>
-
-<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Elsmmany&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdulrahman-Elsmmany's GitHub stats" /></a>
-
-<a href="http://www.github.com/Abdulrahman-Elsmmany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Elsmmany&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Abdulrahman-Elsmmany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Elsmmany&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</div>
-
----
-
-## 🌟 **Focus Areas**
-
-<div align="center">
-
-🤖 **Machine Learning & Deep Learning**  
-🔗 **Blockchain Development**  
-💻 **Full Stack Development (Frontend & Backend)**  
-🕷️ **Web Scraping & Bot Development**  
-📊 **Data Science & Analytics**  
-🚀 **AI Agent Development**  
-🎨 **Generative AI Solutions**
-
-</div>
-
----
-
-## 📬 **Let's Connect!**
-
-<p align="center"> 
-  <a href="mailto:eng.elsmmany@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/blob/6a82e88919a47c45b5b7dd095a0a854bb4995054/assets/gmail-svgrepo-com.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-elsmmany/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/ENG_Abdulrahman_Assem" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/blob/6a82e88919a47c45b5b7dd095a0a854bb4995054/assets/telegram-svgrepo-com.svg"  width="40" height="40"/>
-  </a>
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/abdulrahman-elsmmany/">linkedin</a> .
+    <a href="mailto:eng.elsmmany@gmail.com">email</a> .
+    <a href="https://github.com/Abdulrahman-Elsmmany?tab=repositories">repos</a> .
+    <a href="https://ko-fi.com/abdulrahman_elsmmany">ko-fi</a>
+  </samp>
 </p>
 
+### Abdulrahman Elsmmany
+
+I build production LLM systems — voice agents, RAG pipelines, multi-agent backends — and the full-stack apps they live inside. Currently shipping at **PsHub** (a LangGraph multi-agent system over a Next.js / Supabase B2B marketplace) and HIPAA AI at **Addis Care** in the US. Previously: a 50K-user crypto product ecosystem at **Profit 717**.
+
+## `$ whoami`
+
+- **Stack** — `Python` · `TypeScript` · `LangGraph` · `Pipecat` · `LiveKit` · `FastAPI` · `Next.js` · `Supabase` · `pgvector`
+- **Currently learning** — voice-agent eval harnesses, real-time guardrails, MCP server patterns at scale, semantic chunking for legal/medical RAG
+
+#### What I work on
+
+```mermaid
+flowchart LR
+    subgraph Domains
+        VA["Voice agents"]
+        AG["Multi-agent systems"]
+        RAG["Retrieval pipelines"]
+        FS["Full-stack AI apps"]
+    end
+    subgraph Stack
+        PC["Pipecat / LiveKit"]
+        LC["LangChain / LangGraph"]
+        FA["FastAPI / asyncio"]
+        SB["Supabase / pgvector"]
+        NX["Next.js / React"]
+    end
+    VA --> PC
+    VA --> LC
+    AG --> LC
+    RAG --> SB
+    LC --> FA
+    PC --> FA
+    FA --> NX
+    SB --> NX
+    FS --> NX
+    FS --> FA
+```
+
+#### Latest
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+##### Recent releases
+<!-- recent_releases starts -->
+- _Set up the workflow in section 7 below to populate this._
+<!-- recent_releases ends -->
+
+</td>
+<td valign="top" width="50%">
+
+##### Recent writing
+<!-- BLOG-POST-LIST:START -->
+- _Set up the workflow in section 7 below to populate this._
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+</tr>
+</table>
+
+#### Selected projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+##### [IRAGX](https://github.com/Abdulrahman-Elsmmany/IRAGX)
+
+Production RAG platform with 12 retrieval strategies — hybrid BM25 + pgvector, cross-encoder reranking, streaming chat with citations.
+
+`LangGraph` · `Next.js 16` · `Supabase`
+
+</td>
+<td valign="top" width="50%">
+
+##### [LiveSwitch](https://github.com/Abdulrahman-Elsmmany/LiveSwitch)
+
+Config-driven multi-agent voice orchestration. JSON-driven flow with runtime agent generation and cross-call memory.
+
+`LiveKit` · `FastAPI` · `Pydantic 2`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+##### [mcp-crawl4ai-rag](https://github.com/Abdulrahman-Elsmmany/mcp-crawl4ai-rag)
+
+MCP server with 5 RAG strategies — contextual, hybrid, agentic, reranking, and Neo4j knowledge-graph hallucination detection.
+
+`MCP` · `Crawl4AI` · `Neo4j`
+
+</td>
+<td valign="top" width="50%">
+
+##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
+
+Universal docs-to-Markdown CLI for LLM context. llms.txt, sitemap, and recursive crawl strategies. Resumable.
+
+`Python` · `async` · `Click`
+
+</td>
+</tr>
+</table>
+
+→ [More projects on my GitHub](https://github.com/Abdulrahman-Elsmmany?tab=repositories)
+
+<details>
+<summary><code>README</code> — <em>How I work</em></summary>
+
+<br>
+
+- **Async-first.** Design doc → spike → benchmark → ship. I write down what I'd build before I build it.
+- **Evaluation before claims.** Every retrieval / agent / latency claim in my repos has a numbers table to back it.
+- **Demos > slides.** I'd rather send you a 30-second Loom than a deck.
+- **Open to** senior IC roles in voice AI / LLM systems / full-stack AI products. Long-running contracts (3+ months) over week-long gigs. Remote, US/EU-friendly hours.
+
+</details>
+
 ---
+<sub>The source for this README lives in <a href="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany">/Abdulrahman-Elsmmany</a> and updates daily via a GitHub Action.</sub>
 
-## 💖 **Support My Work**
-
-<div align="center">
-<a href='https://ko-fi.com/abdulrahman_elsmmany#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
----
-
-<div align="center">
-<h3>🚀 Ready to build something exceptional? Let's connect and discuss how I can bring your vision to life! 🚀</h3>
-</div>
-
----
-
-<div align="center">
-<i>⭐ Don't forget to star some repositories if you find them interesting! ⭐</i>
-</div>
+[![Build README](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/workflows/Build%20README/badge.svg)](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/actions)
