@@ -78,6 +78,8 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 </td>
 <td valign="top" width="50%">
 
+<a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/docscrape-logo.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
+
 ##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
 
 Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform-specific adapters, resumable.
