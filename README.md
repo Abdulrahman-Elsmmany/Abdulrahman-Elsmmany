@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="Abdulrahman Elsmmany — voice AI · multi-agent systems · full-stack" src="./assets/banner-dark.png" width="100%">
+  <img alt="Abdulrahman Elsmmany — Senior AI/ML + Full-Stack Engineer · Voice AI · LangGraph · RAG · Pipecat" src="./assets/banner-dark.png" width="100%">
 </picture>
 
 <p align="center">
@@ -29,6 +29,14 @@ Recent work: real-time voice AI on Pipecat + WebRTC with multi-provider STT-LLM-
 - **Currently learning** — voice-agent eval harnesses, real-time guardrails, MCP server patterns at scale, semantic chunking for legal/medical RAG
 - **Remote · open to senior IC roles + select contracts**
 
+#### What I work on
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-domains-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-domains-light.png">
+  <img alt="Voice agents flowing into multi-agent orchestration into retrieval pipelines into full-stack applications" src="./assets/work-domains-dark.png" width="100%">
+</picture>
+
 #### Selected projects
 
 <table>
@@ -46,19 +54,6 @@ Config-driven multi-agent voice orchestration. JSON-driven flows with runtime ag
 </td>
 <td valign="top" width="50%">
 
-<a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/projects/docscrape.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
-
-##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
-
-Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform-specific adapters, resumable.
-
-`Python · async` · `Click` · `Pydantic`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 <a href="https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli"><img src="./assets/projects/ai-media-studio.png" alt="AI Media Studio — multi-modal AI media generation" width="100%"></a>
 
 ##### [AI Media Studio](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli)
@@ -68,6 +63,8 @@ Multi-modal AI media generation tool — Veo 3 video, Imagen images, MusicLM aud
 `Tauri` · `FastAPI` · `Vertex AI`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/KIWI-"><img src="./assets/projects/kiwi.png" alt="KIWI TTS — multi-interface text to speech" width="100%"></a>
@@ -77,6 +74,15 @@ Multi-modal AI media generation tool — Veo 3 video, Imagen images, MusicLM aud
 Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30+ voices, 28 languages. Desktop GUI, CLI, REST API.
 
 `Tauri` · `Python` · `Google Cloud TTS`
+
+</td>
+<td valign="top" width="50%">
+
+##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
+
+Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform-specific adapters, resumable.
+
+`Python` · `async` · `Click` · `Pydantic`
 
 </td>
 </tr>
@@ -124,6 +130,15 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 </details>
 
 ---
-<sub>The source for this README lives in <a href="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany">/Abdulrahman-Elsmmany</a> and updates daily via a GitHub Action.</sub>
 
-[![Build README](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/workflows/Build%20README/badge.svg)](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/actions)
+<p align="center">
+  <img src="./assets/builder.png" alt="" width="160" height="160">
+</p>
+
+<p align="center">
+  <sub>The source for this README lives in <a href="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany">/Abdulrahman-Elsmmany</a> and updates daily via a GitHub Action.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/actions"><img src="https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany/workflows/Build%20README/badge.svg" alt="Build README"></a>
+</p>
