@@ -108,11 +108,11 @@ Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discover
 
 ##### Recently active
 <!-- recent_activity starts -->
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 14h ago
 - [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 2w ago
-- [**-Telemetry-Apps-t2-announcements-app**](https://github.com/Abdulrahman-Elsmmany/-Telemetry-Apps-t2-announcements-app) — `TypeScript` · 3mo ago
 - [**LiveSwitch**](https://github.com/Abdulrahman-Elsmmany/LiveSwitch) — `Python` · 3mo ago
-- [**Telemetry-Apps-t1-clock-app**](https://github.com/Abdulrahman-Elsmmany/Telemetry-Apps-t1-clock-app) — `TypeScript` · 4mo ago
 - [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · 8mo ago
+- [**ai-media-studio-cli**](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli) — `Python` · ⭐ 18 · 8mo ago
 <!-- recent_activity ends -->
 
 </td>
