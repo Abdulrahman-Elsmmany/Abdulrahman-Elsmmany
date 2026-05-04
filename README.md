@@ -108,7 +108,7 @@ Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discover
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 2d ago
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 3d ago
 - [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 2w ago
 - [**LiveSwitch**](https://github.com/Abdulrahman-Elsmmany/LiveSwitch) — `Python` · 3mo ago
 - [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · 9mo ago
