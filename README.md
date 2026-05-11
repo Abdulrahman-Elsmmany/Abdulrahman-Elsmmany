@@ -100,7 +100,8 @@ Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discover
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 5d ago
+- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 14h ago
+- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 6d ago
 <!-- recent_releases ends -->
 
 </td>
@@ -108,7 +109,7 @@ Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discover
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 4d ago
+- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 14h ago
 - [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 1w ago
 - [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 3w ago
 - [**LiveSwitch**](https://github.com/Abdulrahman-Elsmmany/LiveSwitch) — `Python` · 4mo ago
