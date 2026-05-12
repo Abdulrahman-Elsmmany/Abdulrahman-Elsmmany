@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="Abdulrahman Elsmmany — Senior AI/ML + Full-Stack Engineer · Voice AI · LangGraph · RAG · Pipecat" src="./assets/banner-dark.png" width="100%">
-</picture>
+<img alt="Abdulrahman Elsmmany — Senior AI/ML + Full-Stack Engineer · Multi-Agent · Voice AI · RAG · Full-Stack · Web Apps" src="./assets/banner-dark.png" width="100%">
 
 <p align="center">
   <samp>
@@ -31,16 +27,23 @@ Recent work: real-time voice AI on Pipecat + WebRTC with multi-provider STT-LLM-
 
 #### What I work on
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-domains-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-domains-light.png">
-  <img alt="Voice agents flowing into multi-agent orchestration into retrieval pipelines into full-stack applications" src="./assets/work-domains-dark.png" width="100%">
-</picture>
+<img alt="Voice agents flowing into multi-agent orchestration into retrieval pipelines into full-stack applications" src="./assets/work-domains-dark.png" width="100%">
 
 #### Selected projects
 
 <table>
 <tr>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/freshguard-vision"><img src="./assets/projects/freshguard.png" alt="FreshGuard Vision — 24-class produce freshness detection" width="100%"></a>
+
+##### [FreshGuard Vision](https://github.com/Abdulrahman-Elsmmany/freshguard-vision)
+
+24-class produce freshness detector. YOLO26n produce localizer + DINOv3-S/16 classifier on crops and full image, with a crop ↔ full-image agreement gate. 0.948 macro F1.
+
+`PyTorch` · `Streamlit` · `Ultralytics` · `timm`
+
+</td>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/LiveSwitch"><img src="./assets/projects/liveswitch.png" alt="LiveSwitch — multi-agent voice orchestration" width="100%"></a>
@@ -52,6 +55,8 @@ Config-driven multi-agent voice orchestration. JSON-driven flows with runtime ag
 `LiveKit Agents` · `FastAPI` · `Pydantic 2`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli"><img src="./assets/projects/ai-media-studio.png" alt="AI Media Studio — multi-modal AI media generation" width="100%"></a>
@@ -63,8 +68,6 @@ Multi-modal AI media generation tool — Veo 3 video, Imagen images, MusicLM aud
 `Tauri` · `FastAPI` · `Vertex AI`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/KIWI-"><img src="./assets/projects/kiwi.png" alt="KIWI TTS — multi-interface text to speech" width="100%"></a>
@@ -76,15 +79,52 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 `Tauri` · `Python` · `Google Cloud TTS`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
-<a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/docscrape-logo.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
+<a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/projects/docscrape.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
 
 ##### [docscrape](https://github.com/Abdulrahman-Elsmmany/docscrape)
 
-Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform-specific adapters, resumable.
+Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discovery (`llms.txt`, sitemap, recursive crawl), platform adapters for livekit / pipecat / retellai, resumable.
 
 `Python` · `async` · `Click` · `Pydantic`
+
+</td>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/urban-object-detection"><img src="./assets/projects/urban-object-detection.png" alt="Urban Object Detection — real-time YOLO + TensorRT" width="100%"></a>
+
+##### [Urban Object Detection](https://github.com/Abdulrahman-Elsmmany/urban-object-detection)
+
+Real-time YOLO + TensorRT object detection on urban scenes — vehicles, pedestrians, traffic lights, signs. BDD100K dataset. Streamlit interface, 30+ FPS.
+
+`PyTorch` · `Ultralytics` · `TensorRT` · `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-"><img src="./assets/projects/gmgn-price-tracker.png" alt="gmgn-price-tracker — async crypto price scraper" width="100%"></a>
+
+##### [gmgn-price-tracker](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-)
+
+Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-network (BSC · ETH · SOL · ARB), UA rotation, retry, screenshots on failure.
+
+`Playwright` · `asyncio` · `Sheets API`
+
+</td>
+<td valign="top" width="50%">
+
+<a href="https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker"><img src="./assets/projects/telegram-crypto-tracker.png" alt="telegram-crypto-tracker — bot-driven price tracker" width="100%"></a>
+
+##### [telegram-crypto-tracker](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker)
+
+Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches prices from exchange APIs, writes results to a sync sheet with audit log.
+
+`Python` · `python-telegram-bot` · `Sheets API`
 
 </td>
 </tr>
