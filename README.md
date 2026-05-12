@@ -140,8 +140,8 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 14h ago
-- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 6d ago
+- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — yesterday
+- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 1w ago
 <!-- recent_releases ends -->
 
 </td>
@@ -149,11 +149,11 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 14h ago
-- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 1w ago
-- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 3w ago
-- [**LiveSwitch**](https://github.com/Abdulrahman-Elsmmany/LiveSwitch) — `Python` · 4mo ago
-- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · 9mo ago
+- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · just now
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · just now
+- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · just now
+- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · just now
+- [**ai-media-studio-cli**](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli) — `Python` · ⭐ 18 · just now
 <!-- recent_activity ends -->
 
 </td>
