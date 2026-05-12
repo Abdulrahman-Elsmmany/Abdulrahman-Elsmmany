@@ -149,11 +149,11 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · just now
-- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · just now
-- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · just now
-- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · just now
-- [**ai-media-studio-cli**](https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli) — `Python` · ⭐ 18 · just now
+- [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · 1h ago
+- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · 8h ago
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 8h ago
+- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 8h ago
+- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · 8h ago
 <!-- recent_activity ends -->
 
 </td>
