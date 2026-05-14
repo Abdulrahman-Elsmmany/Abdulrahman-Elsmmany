@@ -140,7 +140,8 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 2d ago
+- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 20h ago
+- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 3d ago
 - [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 1w ago
 <!-- recent_releases ends -->
 
@@ -149,11 +150,11 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · yesterday
-- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · yesterday
-- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · yesterday
-- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · yesterday
-- [**KIWI-**](https://github.com/Abdulrahman-Elsmmany/KIWI-) — `TypeScript` · ⭐ 2 · yesterday
+- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 18h ago
+- [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · 2d ago
+- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · 2d ago
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 2d ago
+- [**docscrape**](https://github.com/Abdulrahman-Elsmmany/docscrape) — `Python` · 2d ago
 <!-- recent_activity ends -->
 
 </td>
