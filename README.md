@@ -140,8 +140,8 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — yesterday
-- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 4d ago
+- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 2d ago
+- [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 5d ago
 - [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 1w ago
 <!-- recent_releases ends -->
 
@@ -150,11 +150,11 @@ Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches pr
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · 18h ago
-- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · yesterday
-- [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · 3d ago
-- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · 3d ago
-- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 3d ago
+- [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · yesterday
+- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 2d ago
+- [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · 4d ago
+- [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · 4d ago
+- [**urban-object-detection**](https://github.com/Abdulrahman-Elsmmany/urban-object-detection) — `Python` · ⭐ 2 · 4d ago
 <!-- recent_activity ends -->
 
 </td>
