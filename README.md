@@ -118,13 +118,13 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 </td>
 <td valign="top" width="50%">
 
-<a href="https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker"><img src="./assets/projects/telegram-crypto-tracker.png" alt="telegram-crypto-tracker — bot-driven price tracker" width="100%"></a>
+<a href="https://github.com/Abdulrahman-Elsmmany/freelance-copilot"><img src="./assets/projects/mira.png" alt="Mira — bilingual agentic CRM for MENA freelancers" width="100%"></a>
 
-##### [telegram-crypto-tracker](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker)
+##### [Mira](https://github.com/Abdulrahman-Elsmmany/freelance-copilot)
 
-Messaging-bot crypto price tracker. Bot dispatcher receives commands, fetches prices from exchange APIs, writes results to a sync sheet with audit log.
+Bilingual AR/EN agentic CRM for MENA freelancers. 14-node LangGraph supervisor with three retrieval mechanisms (hybrid RAG, exact-match CAG, six-layer NL→SQL), HITL-gated client drafts, and cross-lingual episodic memory in `halfvec(3072)`.
 
-`Python` · `python-telegram-bot` · `Sheets API`
+`LangGraph v1` · `Next.js 16` · `Supabase (pgvector + RLS)`
 
 </td>
 </tr>
