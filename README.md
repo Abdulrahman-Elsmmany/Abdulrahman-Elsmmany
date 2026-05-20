@@ -150,8 +150,8 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**freelance-copilot**](https://github.com/Abdulrahman-Elsmmany/freelance-copilot) — `TypeScript` · just now
-- [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · 17h ago
+- [**freelance-copilot**](https://github.com/Abdulrahman-Elsmmany/freelance-copilot) — `TypeScript` · 10h ago
+- [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · yesterday
 - [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 6d ago
 - [**telegram-crypto-tracker**](https://github.com/Abdulrahman-Elsmmany/telegram-crypto-tracker) — `Python` · ⭐ 1 · 1w ago
 - [**gmgn-price-tracker-Web-Scraping-**](https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-) — `Python` · ⭐ 5 · 1w ago
