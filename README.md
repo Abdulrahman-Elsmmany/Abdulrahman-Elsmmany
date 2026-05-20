@@ -35,6 +35,17 @@ Recent work: real-time voice AI on Pipecat + WebRTC with multi-provider STT-LLM-
 <tr>
 <td valign="top" width="50%">
 
+<a href="https://github.com/Abdulrahman-Elsmmany/freelance-copilot"><img src="./assets/projects/mira.png" alt="Mira — bilingual agentic CRM for MENA freelancers" width="100%"></a>
+
+##### [Mira](https://github.com/Abdulrahman-Elsmmany/freelance-copilot)
+
+Bilingual AR/EN agentic CRM for MENA freelancers. 14-node LangGraph supervisor with three retrieval mechanisms (hybrid RAG, exact-match CAG, six-layer NL→SQL), HITL-gated client drafts, and cross-lingual episodic memory in `halfvec(3072)`.
+
+`LangGraph v1` · `Next.js 16` · `Supabase (pgvector + RLS)`
+
+</td>
+<td valign="top" width="50%">
+
 <a href="https://github.com/Abdulrahman-Elsmmany/freshguard-vision"><img src="./assets/projects/freshguard.png" alt="FreshGuard Vision — 24-class produce freshness detection" width="100%"></a>
 
 ##### [FreshGuard Vision](https://github.com/Abdulrahman-Elsmmany/freshguard-vision)
@@ -44,6 +55,8 @@ Recent work: real-time voice AI on Pipecat + WebRTC with multi-provider STT-LLM-
 `PyTorch` · `Streamlit` · `Ultralytics` · `timm`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/LiveSwitch"><img src="./assets/projects/liveswitch.png" alt="LiveSwitch — multi-agent voice orchestration" width="100%"></a>
@@ -55,8 +68,6 @@ Config-driven multi-agent voice orchestration. JSON-driven flows with runtime ag
 `LiveKit Agents` · `FastAPI` · `Pydantic 2`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/ai-media-studio-cli"><img src="./assets/projects/ai-media-studio.png" alt="AI Media Studio — multi-modal AI media generation" width="100%"></a>
@@ -68,6 +79,8 @@ Multi-modal AI media generation tool — Veo 3 video, Imagen images, MusicLM aud
 `Tauri` · `FastAPI` · `Vertex AI`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/KIWI-"><img src="./assets/projects/kiwi.png" alt="KIWI TTS — multi-interface text to speech" width="100%"></a>
@@ -79,8 +92,6 @@ Professional multi-interface text-to-speech with Google Chirp 3 HD voices — 30
 `Tauri` · `Python` · `Google Cloud TTS`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/docscrape"><img src="./assets/projects/docscrape.png" alt="docscrape — universal docs to Markdown" width="100%"></a>
@@ -92,6 +103,8 @@ Universal documentation-to-Markdown CLI for LLM context. Multi-strategy discover
 `Python` · `async` · `Click` · `Pydantic`
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/urban-object-detection"><img src="./assets/projects/urban-object-detection.png" alt="Urban Object Detection — real-time YOLO + TensorRT" width="100%"></a>
@@ -103,8 +116,6 @@ Real-time YOLO + TensorRT object detection on urban scenes — vehicles, pedestr
 `PyTorch` · `Ultralytics` · `TensorRT` · `Streamlit`
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 <a href="https://github.com/Abdulrahman-Elsmmany/gmgn-price-tracker-Web-Scraping-"><img src="./assets/projects/gmgn-price-tracker.png" alt="gmgn-price-tracker — async crypto price scraper" width="100%"></a>
@@ -114,17 +125,6 @@ Real-time YOLO + TensorRT object detection on urban scenes — vehicles, pedestr
 Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-network (BSC · ETH · SOL · ARB), UA rotation, retry, screenshots on failure.
 
 `Playwright` · `asyncio` · `Sheets API`
-
-</td>
-<td valign="top" width="50%">
-
-<a href="https://github.com/Abdulrahman-Elsmmany/freelance-copilot"><img src="./assets/projects/mira.png" alt="Mira — bilingual agentic CRM for MENA freelancers" width="100%"></a>
-
-##### [Mira](https://github.com/Abdulrahman-Elsmmany/freelance-copilot)
-
-Bilingual AR/EN agentic CRM for MENA freelancers. 14-node LangGraph supervisor with three retrieval mechanisms (hybrid RAG, exact-match CAG, six-layer NL→SQL), HITL-gated client drafts, and cross-lingual episodic memory in `halfvec(3072)`.
-
-`LangGraph v1` · `Next.js 16` · `Supabase (pgvector + RLS)`
 
 </td>
 </tr>
