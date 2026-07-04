@@ -142,7 +142,7 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 <!-- recent_releases starts -->
 - [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 1mo ago
 - [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 1mo ago
-- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 1mo ago
+- [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 2mo ago
 <!-- recent_releases ends -->
 
 </td>
