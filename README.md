@@ -140,7 +140,7 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 4mo ago
+- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 5mo ago
 - [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 5mo ago
 - [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 5mo ago
 <!-- recent_releases ends -->
@@ -150,7 +150,7 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 
 ##### Recently active
 <!-- recent_activity starts -->
-- [**sifteriq-site**](https://github.com/Abdulrahman-Elsmmany/sifteriq-site) — `HTML` · 2h ago
+- [**sifteriq-site**](https://github.com/Abdulrahman-Elsmmany/sifteriq-site) — `HTML` · yesterday
 - [**Abdulrahman-Elsmmany.github.io**](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany.github.io) — `HTML` · 1mo ago
 - [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · 3mo ago
 - [**freelance-copilot**](https://github.com/Abdulrahman-Elsmmany/freelance-copilot) — `TypeScript` · 4mo ago
