@@ -140,7 +140,7 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 
 ##### Recent releases
 <!-- recent_releases starts -->
-- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 5mo ago
+- [**freshguard-vision** v0.3.1](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.1) — 6mo ago
 - [**freshguard-vision** v0.3.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.3.0) — 6mo ago
 - [**freshguard-vision** v0.2.0](https://github.com/Abdulrahman-Elsmmany/freshguard-vision/releases/tag/v0.2.0) — 6mo ago
 <!-- recent_releases ends -->
@@ -154,7 +154,7 @@ Async web scraper pulling token prices from gmgn.ai into a sync sheet. Multi-net
 - [**Abdulrahman-Elsmmany.github.io**](https://github.com/Abdulrahman-Elsmmany/Abdulrahman-Elsmmany.github.io) — `HTML` · 2mo ago
 - [**markdown-preview-settings**](https://github.com/Abdulrahman-Elsmmany/markdown-preview-settings) — `CSS` · 4mo ago
 - [**freelance-copilot**](https://github.com/Abdulrahman-Elsmmany/freelance-copilot) — `TypeScript` · 5mo ago
-- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 5mo ago
+- [**freshguard-vision**](https://github.com/Abdulrahman-Elsmmany/freshguard-vision) — `Jupyter Notebook` · 6mo ago
 <!-- recent_activity ends -->
 
 </td>
